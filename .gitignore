@@ -1,0 +1,8 @@
+*.jpg
+*.png
+*.xml
+*.txt
+
+!train/
+!test/
+!convert*
